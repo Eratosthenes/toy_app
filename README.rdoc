@@ -1,4 +1,4 @@
-View this website at: https://shrouded-crag-5525.herokuapp.com
+View this website at: https://shrouded-crag-5525.herokuapp.com :)
 
 == README
 
